@@ -1,2 +1,4 @@
 # Portfolio
-Personal developer portfolio of Gowtham Krishna T V | MERN Stack Developer | AI &amp; Machine Learning Enthusiast | Data Science | Cloud Computing | Projects | Resume | Certifications.
+🚀 Welcome to my Portfolio Repository!
+
+This repository contains the source code for my personal portfolio website, showcasing my projects, technical skills, certifications, achievements, and professional journey as a MERN Stack Developer and AI Enthusiast.
